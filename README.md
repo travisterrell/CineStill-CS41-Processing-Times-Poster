@@ -6,6 +6,8 @@ It lists the times and notes for each processing step, formatted for quick use w
 
 You may download a PNG or PDF version here, or run the code yourself if you want to make some tweaks.
 
+_**NOTE:** The Roll 2-4 times are based on a 1-pint working solution and thus add 4% for each already-processed roll time. If using a 1-qt batch, one should add 2% each time instead. (This should probably be mentioned on the poster...)_
+
 If you'd like to include push/pull processing times, there's an additional line for step 1 which can be uncommented if desired. (Maybe I'll generate and upload that variation as well the next time I dust this off. Or just submit an issue and I'll do it asap.)
 
 ## Preview
